@@ -10,3 +10,5 @@ Use GAN model to generate dog image
 
 ## Important questions to be answered
 + Why GAN? What's the meaning?
++ How GAN theory developed?
++ What's the latest best model?
