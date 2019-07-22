@@ -5,6 +5,7 @@ Use GAN model to generate dog image
 + GAN development over the year [[blog]](https://kexue.fm/archives/6549) 
 + Self-attention GAN[[paper]](https://arxiv.org/pdf/1805.08318.pdf) , [[github]](https://github.com/heykeetae/Self-Attention-GAN)
 + Self-attention GAN explaination [[blog]](https://www.paperweekly.site/papers/notes/414) 
++ self-attention introduction [[blog]](https://blog.csdn.net/malefactor/article/details/78767781) 
 + Big GAN [[paper]](https://arxiv.org/pdf/1809.11096v2.pdf) , [[github]](https://github.com/ajbrock/BigGAN-PyTorch)
 + Big GAN explaination [[blog]](https://www.jiqizhixin.com/articles/2018-10-12-9) 
 
